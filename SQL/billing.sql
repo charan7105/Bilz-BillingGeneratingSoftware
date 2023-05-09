@@ -47,10 +47,6 @@ CREATE TABLE `bills` (
 --
 
 INSERT INTO `bills` (`id`, `user_id`, `bill_id`, `mode`, `cust_name`, `cust_addr`, `cust_mob`, `cust_email`, `prod_code`, `prod_quantity`, `prod_price`, `date`) VALUES
-(80, 2, 2, 'Cash', 'Harshith K', 'Guntur', '8143320497', 'kanigalpulaharshith@gmail.com', 'DTLS', 4, 35, '2021-11-13 05:47:33'),
-(81, 2, 2, 'Cash', 'Harshith K', 'Guntur', '8143320497', 'kanigalpulaharshith@gmail.com', 'BTRS', 3, 15, '2021-11-13 05:47:46'),
-(90, 2, 4, 'Cash', 'Saketh', 'Ramanthapur', '8008940578', 'saketh@gmail.com', 'PEN', 5, 5, '2021-11-14 17:42:43'),
-(91, 2, 4, 'Cash', 'Saketh', 'Ramanthapur', '8008940578', 'saketh@gmail.com', 'KRK', 1, 20, '2021-11-14 17:42:51'),
 (98, 2, 5, 'Cash', 'ddd', 'dsdsdsds', 'sddsdsds', 'dsdsdsds@gmail', '', 10, 0, '2021-11-15 10:05:58');
 
 -- --------------------------------------------------------
@@ -73,8 +69,8 @@ CREATE TABLE `details` (
 --
 
 INSERT INTO `details` (`id`, `name`, `email`, `mobile`, `password`, `gst`) VALUES
-(1, 'Swagath Store', 'kanigalpulaharshith@gmail.com', '8143320497', '123456', '22AAAAA0000A1Z5'),
-(2, 'O\'LIV STORE', 'oliv@gmail.com', '8975461230', 'oliv', '22AAAAA0000A1Z4');
+(1, 'KC Store', 'kalyanivisw@gmail.com', '8374896219', '123456', '22AAAAA0000A1Z5'),
+(2, 'Charan Store', 'saicharanvenna@gmail.com', '9963392871', 'Saikarthik123', '22AAAAA0000A1Z4');
 
 -- --------------------------------------------------------
 
