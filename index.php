@@ -15,8 +15,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    
-    <!-- Vertical navbar -->
+
 <div class="vertical-nav bg-white" id="sidebar">
   <div class="py-4 px-3 mb-4 bg-light">
     <div class="media d-flex align-items-center">
@@ -26,8 +25,6 @@
       </div>
     </div>
   </div>
-
- 
 
   <ul class="nav flex-column bg-white mb-0">
     <li class="nav-item">
@@ -102,16 +99,10 @@
 <div class="mt-3">
 	<img src="bill2.jpg" width="1000rem" height="auto" class="rounded mx-auto d-block" alt="...">
 </div>
-<!-- <div class="mt-5 text-center">
-<button type="button" class="btn btn-dark">Know More
-	<i class="fa fa-arrow-right mr-1 text-light fa-fw"></i>
-</button>
-</div> -->
 
-<div class="footer-copyright text-center text-light py-3 mt-5">&copy; Copyright Bill Book </div>
+
+<div class="footer-copyright text-center text-light py-3 mt-5">&copy; Copyright Kalyani and Charan </div>
 </div>
-
-<!-- End demo content -->
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
