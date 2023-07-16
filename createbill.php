@@ -63,7 +63,7 @@
 		<a href="productshorthand.php" class="nav-link text-dark">
 				  <i class="fa fa-th-list mr-3 text-dark fa-fw"></i>
 				  Product Shorthand
-			  </a>
+		</a>
 	  </li>
   </ul>
 

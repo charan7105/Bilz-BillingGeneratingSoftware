@@ -79,27 +79,22 @@
   <button id="sidebarCollapse" type="button" class="btn btn-light bg-white rounded-pill shadow-sm px-4 mb-4"><i class="fa fa-bars mr-2"></i><small class="text-uppercase font-weight-bold">Menu</small></button>
 
   <!-- Demo content -->
-  <h2 class="display-4 text-white text-center">WEB BASED BILLING SOFTWARE</h2>
-  <h2 class="display-4 text-white text-center">Sai Charan Venna</h2>
-  <h2 class="display-4 text-white text-center">Kalyani Viswanadha</h2>
+  <h2 class="display-4 text-white text-center">Bilz - Billing Generation software</h2>
+  <p class="display-5 text-white text-center">By Sai Charan Venna・Kalyani Viswanadha</p>
 
   <div class="separator"></div>
   <div class="row text-white">
     <div class="col-lg-6">
- 
       <p class="lead">This Web-based Billing Software (WBS) tool allows organizations to set up online bill management, consumers to read bills, and owners to save or download invoices for new businesses. In addition, the developer is creating an online billing webpage to handle invoices in the system and to assist clients in creating, updating, and calculating bills/invoices without having to manually list them.</p>
-      
     </div>
     <div class="col-lg-6">
-     
-     
       <p class="lead">This software system will rely only on the internet to provide a user-friendly environment for both owners and customers. This solution is designed for Businessmen, Enterprises, Shopkeepers, Vendors, and Government Officers who don't want to spend time manually maintaining bills/invoices or computing whole bill computations.</p>
     </div>
 </div>
+
 <div class="mt-3">
 	<img src="bill2.jpg" width="1000rem" height="auto" class="rounded mx-auto d-block" alt="...">
 </div>
-
 
 <div class="footer-copyright text-center text-light py-3 mt-5">&copy; Copyright Kalyani and Charan </div>
 </div>
