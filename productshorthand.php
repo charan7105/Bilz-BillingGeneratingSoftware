@@ -63,12 +63,6 @@
 				  Product Shorthand
 			  </a>
 	  </li>
-	  <li class="nav-item">
-		<a href="giveawaygenerator.php" class="nav-link text-dark">
-				  <i class="fa fa-gift mr-3 text-dark fa-fw"></i>
-				  Giveaway Generator
-			  </a>
-	  </li>
   </ul>
 
   <div class="mt-5 text-center">
